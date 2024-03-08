@@ -14,7 +14,16 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "python app.py"
+	"postCreateCommand": "python app.py",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-azuretools.vscode-docker",
+				"FittenTech.Fitten-Code"
+			]
+		}
+	}
 
 	// Configure tool-specific properties.
 	// "customizations": {},
