@@ -20,7 +20,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-azuretools.vscode-docker",
-				"FittenTech.Fitten-Code"
+				"FittenTech.Fitten-Code",
+				"humao.rest-client"
 			]
 		}
 	}
